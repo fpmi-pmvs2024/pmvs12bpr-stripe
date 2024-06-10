@@ -122,7 +122,7 @@ fun DisplayTasks(
 
             if (isDismissed && dismissDirection == DismissDirection.EndToStart) {
                 val scope = rememberCoroutineScope()
-                LaunchedEffect(Unit) {
+//                LaunchedEffect(Unit) {
 //                    scope.launch {
 //                        delay(300)
 //                        onSwipeToDelete(Action.DELETE, task)
