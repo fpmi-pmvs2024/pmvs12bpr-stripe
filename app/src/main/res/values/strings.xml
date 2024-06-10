@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">To-Do Compose</string>
+    <string name="add_button">Add button</string>
+    <string name="search_action">Search Tasks</string>
+    <string name="sort_action">Sort Tasks</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="list_screen_title">Tasks</string>
+    <string name="search_placeholder">Search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="empty_icon">Empty Icon</string>
+    <string name="no_tasks_found">No tasks found</string>
+    <string name="add_task">Add Task</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="delete_icon">Delete icon</string>
+    <string name="update_icon">Update icon</string>
+    <string name="dropdown_arrow_icon">Dropdown arrow icon</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="ad_yes">YES</string>
+    <string name="ad_no">NO</string>
+    <string name="delete_task_title">Remove \'%1$s\' ?</string>
+    <string name="delete_task_confirmation">Are you sure you want to remove \'%1$s\'</string>
+    <string name="delete_all_tasks">Remove all tasks?</string>
+    <string name="delete_all_tasks_confirmation">Are you sure you want to remove all tasks? There is no going back after this action.</string>
+    <string name="todo_app_logo">ToDo App Logo</string>
+</resources>
